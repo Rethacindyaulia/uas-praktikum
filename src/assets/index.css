@@ -1,0 +1,8 @@
+* {
+    font-family: 'Times New Roman', Times, serif !important;
+    text-decoration: none !important;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
